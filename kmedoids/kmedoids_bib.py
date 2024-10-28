@@ -39,7 +39,7 @@ def monte_carlo_experiment(data, true_labels, k, num_trials):
 
 num_trials = 100
 k = 3
-mean_rand_idx, std_rand_idx = monte_carlo_experiment(data, true_labels, k, num_trials)
+mean_rand_idx, std_rand_idx = monte_carlo_experiment(X, true_labels, k, num_trials)
 
 print(f"Monte Carlo K-Medoids Clustering Results ({num_trials} trials)")
 print(f"Mean Rand Index: {mean_rand_idx:.4f}")

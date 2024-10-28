@@ -1,6 +1,5 @@
 # Import necessary libraries
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn_extra.cluster import KMedoids
 from sklearn.metrics import adjusted_rand_score
 

@@ -166,7 +166,7 @@ data_matrix <- matrix(data_vector, ncol = 4, byrow = TRUE) # transformando em ma
 n_iterations <- 100 # simulação de monte carlo
 ari_scores <- numeric(n_iterations)
 for (i in 1:n_iterations) {
-  result <- FKM(data_matrix, k = 3, m = 2.0) # Fuzzy C-Medoids
+  result <- FKM.med(data_matrix, k = 3, m = 2.0) # Fuzzy C-Medoids
   
   predicted_labels <- apply(result$U, 1, which.max) # transformando em hard
   

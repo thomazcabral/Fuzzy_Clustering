@@ -10,7 +10,7 @@ Este repositório reúne trabalhos sobre técnicas de agrupamento difuso multiva
 ## Métodos de Agrupamento Difuso Multivariado usando Distância de City Block
 #### **Aluno: Kleberson de Araújo Bezerra**
 Lattes: http://lattes.cnpq.br/4354434691905652
-#### **Orientadora: **Profa. Dra Renata Maria Cardoso Rodrigues**
+#### **Orientadora: Profa. Dra Renata Maria Cardoso Rodrigues**
 Lattes: http://lattes.cnpq.br/9289080285504453
 
 ### Introdução e Justificativa
@@ -33,7 +33,7 @@ Desenvolvimento de algoritmos de agrupamento no contexto da inteligência comput
 
 #### **Aluno: Thomaz Cabral Corrêa de Araújo**
 Lattes: http://lattes.cnpq.br/4354434691905652
-#### **Orientadora: **Profa. Dra Renata Maria Cardoso Rodrigues**
+#### **Orientadora: Profa. Dra Renata Maria Cardoso Rodrigues**
 Lattes: http://lattes.cnpq.br/9289080285504453
 
 ### Resumo

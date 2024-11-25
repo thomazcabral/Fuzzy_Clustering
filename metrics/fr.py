@@ -1,3 +1,5 @@
+import numpy as np
+
 def pertinence_distance(delta_k, delta_k_linha, c):
     # calcula a distância entre δ_k e δ_k' (matrizes de pertinência)
     return (1/c) * np.sum((delta_k - delta_k_linha) ** 2)

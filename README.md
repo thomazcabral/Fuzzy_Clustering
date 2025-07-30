@@ -1,6 +1,6 @@
 # Multivariate Fuzzy C-Medoids
 
-Este repositório reúne trabalhos sobre técnicas de agrupamento difuso multivariado, com foco em métodos que utilizam diferentes abordagens para a definição das distâncias entre elementos e seus respectivos clusters. Esse estudo aborda o método de agrupamento difuso multivariado utilizando medoids, que tem como objetivo central reduzir a influência de outliers na formação dos clusters. O intuito do repositório é compartilhar implementações dessas metodologias, permitindo a análise e experimentação com diferentes técnicas de agrupamento difuso.
+Esse estudo aborda o método de agrupamento difuso multivariado utilizando medoids, que tem como objetivo central reduzir a influência de outliers na formação dos clusters. O intuito do repositório é compartilhar implementações dessas metodologias, permitindo a análise e experimentação com diferentes técnicas de agrupamento difuso.
 
 #### **Aluno: Thomaz Cabral Corrêa de Araújo**
 Lattes: http://lattes.cnpq.br/4354434691905652

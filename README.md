@@ -9,15 +9,13 @@ Lattes: http://lattes.cnpq.br/9289080285504453
 
 ## 🏆 Trabalho premiado
 
-Este projeto foi **premiado na 29ª Jornada de Iniciação Científica da FACEPE** (Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco),  
-na área de Ciências Exatas, pelo trabalho:
+Este projeto foi **premiado na 29ª Jornada de Iniciação Científica da FACEPE** (Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco), na área de Ciências Exatas, pelo trabalho:
 
 **"Método de agrupamento difuso multivariado usando medoids"**
 
-Desenvolvido na UFPE - Recife, sob orientação da Profa. Renata Maria Cardoso Rodrigues de Souza,  
-apresentado em junho de 2025.
+Desenvolvido na UFPE - Recife, sob orientação da Profa. Renata Maria Cardoso Rodrigues de Souza, apresentado em junho de 2025.
 
-
+![Certificado FACEPE](certificadoFACEPE.jpg)
 
 Apresentação na 29ª Jornada de Iniciação Científica da Facepe: [slides](https://www.canva.com/design/DAGo61Ga6N4/L8GUuXTosJLe99xlXGjVQg/view?utm_content=DAGo61Ga6N4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcf5310cd39)
 

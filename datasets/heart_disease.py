@@ -1,4 +1,5 @@
 # This database contains 76 attributes. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. 
+from ucimlrepo import fetch_ucirepo
 dataset = fetch_ucirepo(id=45)
 
 # Converter os dados em DataFrame

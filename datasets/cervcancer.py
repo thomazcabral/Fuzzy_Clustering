@@ -7,6 +7,6 @@ dataset = fetch_ucirepo(id=537)
 
 df = pd.DataFrame(dataset.data.features)
 
-if dataset.data.targets is not None:o
+if dataset.data.targets is not None:
     targets = pd.DataFrame(dataset.data.targets)
     df = pd.concat([df, targets], axis=1)

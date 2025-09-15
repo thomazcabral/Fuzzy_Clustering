@@ -1,5 +1,6 @@
 # This database contains 76 attributes. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. 
 from ucimlrepo import fetch_ucirepo
+import pandas as pd
 dataset = fetch_ucirepo(id=45)
 
 # Converter os dados em DataFrame
@@ -10,3 +11,5 @@ if dataset.data.targets is not None:
     # targets pode ser Series ou DataFrame dependendo do conjunto
     targets = pd.DataFrame(dataset.data.targets)
     df = pd.concat([df, targets], axis=1)
+
+df.to_csv('heart.csv', index=False)

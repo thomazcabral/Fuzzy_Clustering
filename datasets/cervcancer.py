@@ -3,6 +3,7 @@
 # pip3 install ucimlrepo
 
 from ucimlrepo import fetch_ucirepo
+import pandas as pd
 dataset = fetch_ucirepo(id=537)
 
 df = pd.DataFrame(dataset.data.features)
@@ -10,3 +11,5 @@ df = pd.DataFrame(dataset.data.features)
 if dataset.data.targets is not None:
     targets = pd.DataFrame(dataset.data.targets)
     df = pd.concat([df, targets], axis=1)
+
+df.to_csv('cervcancer.csv', index=False)

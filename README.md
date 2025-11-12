@@ -1,3 +1,4 @@
+🇬🇧🇺🇸 [Read in English](README.en.md)
 # Multivariate Fuzzy C-Medoids (MFCMd)
 
 Esse estudo aborda o método de agrupamento difuso multivariado utilizando medoids, que tem como objetivo central reduzir a influência de outliers na formação dos clusters. O intuito do repositório é compartilhar implementações dessas metodologias, permitindo a análise e experimentação com diferentes técnicas de agrupamento difuso.
